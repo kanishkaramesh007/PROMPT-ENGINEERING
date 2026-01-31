@@ -259,6 +259,7 @@ Interfaces that integrate the models into user applications, such as chatbots.
 
 Infrastructure Layer: 
 High-performance computational hardware (GPUs, TPUs) required for training, often hosted in the cloud. 
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/7e1c6c56-0dec-4fbc-80e2-c5e7414f07a1" />
 
 # The Pillars of Generative AI Architecture
 
@@ -273,6 +274,8 @@ No artist is perfect, and neither is a generative AI model. This layer ensures c
 
  4. Deployment and Integration Layer: Where Creations Take Flight
 Once trained, the model graduates from the laboratory to the real world. This layer orchestrates its deployment into applications that span the spectrum of human experience. From powering image generation tools and personalised writing assistants to composing original music and designing innovative materials, the possibilities are as vast as the human imagination
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b5fd109c-2ab3-4e90-83c0-1607f7aa7c47" />
+
 # Layered Architecture of Generative Models
 The architecture of a generative model can be understood as a modular stack, where each layer performs a specific role, collectively supporting the learning and generation process.
 
